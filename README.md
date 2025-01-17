@@ -1,4 +1,5 @@
 **Columbia-IEORE4004: OPTIMIZATION MODELS AND METHODS**
+
 Spring 2024 Class At Columbia University - OPTIMIZATION MODELS AND METHODS	
 
 **Portfolio Optimization with Gurobi**
